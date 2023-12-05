@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="527" height="156" viewBox="0 0 527 156">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00bffc"/>
+      <stop offset="1" stop-color="#0073f6"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_4029" data-name="Group 4029" transform="translate(5247 9532)">
+    <rect id="Rectangle_1765" data-name="Rectangle 1765" width="527" height="156" transform="translate(-5247 -9532)"/>
+    <g id="app-store" transform="translate(-5226.41 -9505.928)">
+      <path id="Path_5236" data-name="Path 5236" d="M88.253.032H22.34A22.331,22.331,0,0,0,0,22.372V88.3a22.328,22.328,0,0,0,22.34,22.326H88.267a22.34,22.34,0,0,0,22.34-22.34V22.372A22.351,22.351,0,0,0,88.253.032Z" transform="translate(0)" fill="url(#linear-gradient)"/>
+      <g id="Group_4026" data-name="Group 4026" transform="translate(14.737 19.032)">
+        <path id="Path_5237" data-name="Path 5237" d="M108.306,94.391l2.24-3.871a5.041,5.041,0,1,1,8.737,5.032L97.7,132.905H113.31c5.06,0,7.893,5.944,5.7,10.064H73.248a5.032,5.032,0,1,1,0-10.064H86.077L102.5,104.441l-5.129-8.9a5.041,5.041,0,1,1,8.737-5.032Z" transform="translate(-68.216 -87.982)" fill="#fff"/>
+        <path id="Path_5238" data-name="Path 5238" d="M112.245,354.191l-4.838,8.391a5.041,5.041,0,0,1-8.737-5.032l3.594-6.221C106.328,350.071,109.632,351.039,112.245,354.191Z" transform="translate(-91.564 -294.02)" fill="#fff"/>
+        <path id="Path_5239" data-name="Path 5239" d="M289.01,203H302.1a5.032,5.032,0,0,1,0,10.064H294.83l4.908,8.516A5.041,5.041,0,1,1,291,226.609q-12.4-21.5-18.593-32.21c-4.216-7.272-1.2-14.571,1.77-17.045Q279.133,185.856,289.01,203Z" transform="translate(-226.664 -158.047)" fill="#fff"/>
+      </g>
+    </g>
+    <text id="App_Store" data-name="App Store" transform="translate(-4930 -9403)" fill="#fff" font-size="72" font-family="Lato-Black, Lato" font-weight="800"><tspan x="-161.838" y="0">App Store</tspan></text>
+    <text id="Download_on_the" data-name="Download on the" transform="translate(-4933 -9471)" fill="#fff" font-size="42" font-family="Lato-Medium, Lato" font-weight="500"><tspan x="-159.978" y="0">Download on the</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="527" height="156" viewBox="0 0 527 156">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.915" y1="17.626" x2="-0.383" y2="16.957" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00a0ff"/>
+      <stop offset="0.007" stop-color="#00a2ff"/>
+      <stop offset="0.26" stop-color="#00beff"/>
+      <stop offset="0.512" stop-color="#00d2ff"/>
+      <stop offset="0.76" stop-color="#00dfff"/>
+      <stop offset="1" stop-color="#00e3ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="1.076" y1="49.373" x2="-1.305" y2="49.373" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffe000"/>
+      <stop offset="0.409" stop-color="#ffbd00"/>
+      <stop offset="0.775" stop-color="#ffa600"/>
+      <stop offset="1" stop-color="#ff9c00"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.862" y1="32.329" x2="-0.501" y2="30.56" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff3743"/>
+      <stop offset="1" stop-color="#e30864"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="-0.188" y1="35.049" x2="0.421" y2="34.259" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00a06f"/>
+      <stop offset="0.068" stop-color="#00a86e"/>
+      <stop offset="0.476" stop-color="#00cf6e"/>
+      <stop offset="0.801" stop-color="#00e76d"/>
+      <stop offset="1" stop-color="#00ef6d"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_4028" data-name="Group 4028" transform="translate(5805 9532)">
+    <rect id="Rectangle_1763" data-name="Rectangle 1763" width="527" height="156" transform="translate(-5805 -9532)"/>
+    <g id="google-play" transform="translate(-5805.278 -9505.896)">
+      <path id="Path_5232" data-name="Path 5232" d="M28.05,6.761a8.08,8.08,0,0,0-1.867,5.669v89.244a8.077,8.077,0,0,0,1.867,5.669l.3.291L78.342,57.642V56.463L28.349,6.468Z" transform="translate(0 -5.157)" fill="url(#linear-gradient)"/>
+      <path id="Path_5233" data-name="Path 5233" d="M300.146,205.39l-16.663-16.671v-1.179l16.667-16.667.376.214L320.27,182.3c5.64,3.2,5.64,8.447,0,11.653l-19.744,11.219Z" transform="translate(-205.141 -136.233)" fill="url(#linear-gradient-2)"/>
+      <path id="Path_5234" data-name="Path 5234" d="M102.73,273.046,85.687,256,35.4,306.292c1.86,1.968,4.928,2.212,8.386.248l58.949-33.494" transform="translate(-7.345 -204.105)" fill="url(#linear-gradient-3)"/>
+      <path id="Path_5235" data-name="Path 5235" d="M102.73,34.851,43.781,1.357C40.323-.607,37.255-.364,35.4,1.6L85.687,51.9Z" transform="translate(-7.345 0)" fill="url(#linear-gradient-4)"/>
+    </g>
+    <text id="GET_IT_ON" data-name="GET IT ON" transform="translate(-5550 -9468)" fill="#fff" font-size="51" font-family="Lato-Medium, Lato" font-weight="500"><tspan x="-122.132" y="0">GET IT ON</tspan></text>
+    <text id="Google_Play" data-name="Google Play" transform="translate(-5489 -9403)" fill="#fff" font-size="68" font-family="Lato-Black, Lato" font-weight="800"><tspan x="-182.699" y="0">Google Play</tspan></text>
+  </g>
+</svg>
